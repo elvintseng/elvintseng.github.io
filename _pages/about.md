@@ -8,13 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistics, information theory, and optimization, with a focus on statistical modeling and machine learning. We are curreltly working on secure and privacy-preserving machine learning algorithms.
+Welcome! I am currently a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistics, information theory, and optimization, with a focus on statistical modeling and machine learning. We are currently working on secure and privacy-preserving machine learning algorithms.
 
-Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) and B.S. in [Mathematics](https://www.math.nthu.edu.tw) from [National Tsing Hua University](https://www.nthu.edu.tw) in 2023 and 2021, respectively.
+Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) and B.S. in [Mathematics](https://www.math.nthu.edu.tw) from [National Tsing Hua University (NTHU)](https://www.nthu.edu.tw) in 2023 and 2021, respectively.
 
-Site-wide configuration
+News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* **01 Dec. 2023**: I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
+(It's pretty special to receive this recognition at the place my journey took off!)
+
+* **29 Oct. 2023**: Our paper got accepted by [IEEE Big Data 2023](https://bigdataieee.org/BigData2023/)!
+
+* **15 Aug. 2023**: Joined Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
+
+* **31 July 2023**: Graduated from NTHU. Six years, a journey both lengthy and swift.
+
+* **15 July 2023**: Presented at Data for Social Good (D4SG) [Project Symposium](https://d4sg.org/events/d4sg-fellowship-2023-unveiling-party/).
+
+* **29 June 2023**: Presented at [The 32nd South Taiwan Statistics Conference](http://stsc32.com:8000/index).
+
+* **26 June 2023**: Passed the Master's Thesis Defense!
+
+<!-- * **Date**: Announcement -->
 
 
 <!-- Getting started
