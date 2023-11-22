@@ -14,20 +14,20 @@ Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) 
 
 News
 ------
-* **01 Dec. 2023**: I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
+* **01 Dec. 2023**: 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
 (It's pretty special to receive this recognition at the place my journey took off!)
 
-* **29 Oct. 2023**: Our paper got accepted by [IEEE Big Data 2023](https://bigdataieee.org/BigData2023/)!
+* **29 Oct. 2023**: 🎉 Our paper got accepted by [IEEE Big Data 2023](https://bigdataieee.org/BigData2023/)!
 
 * **15 Aug. 2023**: Joined Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
 
-* **31 July 2023**: Graduated from NTHU. Six years, a journey both lengthy and swift.
+* **31 July 2023**: 🎓 Graduated from NTHU. Six years, a journey both lengthy and swift.
 
-* **15 July 2023**: Presented at Data for Social Good (D4SG) [Project Symposium](https://d4sg.org/events/d4sg-fellowship-2023-unveiling-party/).
+* **15 July 2023**: 🗣️ Presented at Data for Social Good (D4SG) [Project Symposium](https://d4sg.org/events/d4sg-fellowship-2023-unveiling-party/).
 
-* **29 June 2023**: Presented at [The 32nd South Taiwan Statistics Conference](http://stsc32.com:8000/index).
+* **29 June 2023**: 🗣️ Presented at [The 32nd South Taiwan Statistics Conference](http://stsc32.com:8000/index).
 
-* **26 June 2023**: Passed the Master's Thesis Defense!
+* **26 June 2023**: 🎓 Passed the Master's Thesis Defense!
 
 <!-- * **Date**: Announcement -->
 
