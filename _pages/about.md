@@ -17,9 +17,9 @@ News
 * **01 Dec. 2023**: 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
 (It's pretty special to receive this recognition at the place my journey took off!)
 
-* **29 Oct. 2023**: 🎉 Our paper got accepted by [IEEE Big Data 2023](https://bigdataieee.org/BigData2023/)!
+* **29 Oct. 2023**: 📝 Our paper got accepted by [IEEE Big Data 2023](https://bigdataieee.org/BigData2023/)!
 
-* **15 Aug. 2023**: Joined Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
+* **15 Aug. 2023**: 💼 Joined Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
 
 * **31 July 2023**: 🎓 Graduated from NTHU. Six years, a journey both lengthy and swift.
 
@@ -29,7 +29,7 @@ News
 
 * **26 June 2023**: 🎓 Passed the Master's Thesis Defense!
 
-<!-- * **Date**: Announcement -->
+<!-- * **Date**: 🎉 Announcement -->
 
 
 <!-- Getting started

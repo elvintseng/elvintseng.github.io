@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elvin's Page"
-title_separator          : "-"
+title                    : "Elvin Tseng"
+title_separator          : "|"
 name                     : &name "Elvin Y. Tseng"
 description              : &description "personal description"
 url                      : https://elvintseng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
