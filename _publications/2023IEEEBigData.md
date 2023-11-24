@@ -1,6 +1,6 @@
 ---
 collection: publications
-link: 'https://arxiv.org/abs/2311.08677'
+# link: 'https://arxiv.org/abs/2311.08677'
 # github: 'https://github.com/ChihLi/functional-input-GP'
 papertitle: Federated Learning for Sparse Principal
 Component
