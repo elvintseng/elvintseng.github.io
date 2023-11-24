@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Elvin Tseng"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Elvin Y. Tseng"
 description              : &description "personal description"
 url                      : https://elvintseng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2hVqqW4AAAAJ&hl=zh-TW"
+  googlescholar    : "https://scholar.google.com/citations?user=2hVqqW4AAAAJ&hl"
   email            : "ywtseng@gapp.nthu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
