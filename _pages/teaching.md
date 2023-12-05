@@ -12,7 +12,7 @@ I haven't really <em>taught</em> a class yet. Below are some TA experiences.
 
 ---
 
-- STAT5561 Quality Control (graduate level) - 2022, Fall
-- MATH2820 Statistics - 2022 Spring, 2023, Spring
+- STAT5561 Quality Control (graduate level) - 2022 Fall
+- MATH2820 Statistics - 2022 Spring, 2023 Spring
 - MATH2810 Probability Theory - 2021 Fall
 
