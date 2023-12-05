@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning. I have experience in developing statistical process control (SPC) and machine learning. Recently, I am working on secure and privacy-preserving machine learning algorithms, a branch of trustworthy AI.
+Welcome! I am currently a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning. I have gained substantial experience in statistical process control (SPC) and have also delved into the realm of machine learning. More recently, my focus has shifted to developing secure and privacy-preserving machine learning algorithms, a vital branch of trustworthy AI.
 
 Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) and B.S. in [Mathematics](https://www.math.nthu.edu.tw) from [National Tsing Hua University (NTHU)](https://www.nthu.edu.tw) in 2023 and 2021, respectively.
 
