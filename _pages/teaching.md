@@ -12,7 +12,15 @@ I haven't really <em>taught</em> a class yet. Below are some TA experiences.
 
 ---
 
-- STAT5561 Quality Control (graduate level) - 2022 Fall
+- STAT5561 Quality Control (graduate level) - 2022 Fall \
+    - Number of students: 40~45 
+    - My role: Graded homework and exams, hosted weekly office hours, demonstrated code in R
+
 - MATH2820 Statistics - 2022 Spring, 2023 Spring
+    - Number of students: 80~90 
+    - My role: Graded homework and exams, hosted weekly office hours
+
 - MATH2810 Probability Theory - 2021 Fall
+    - Number of students: 80~90 
+    - My role: Graded homework and exams, hosted weekly office hours
 
