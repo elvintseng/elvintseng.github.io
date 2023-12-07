@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -12,8 +13,10 @@ Welcome! I am currently a research assistant at [Research Center for Information
 
 Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) and B.S. in [Mathematics](https://www.math.nthu.edu.tw) from [National Tsing Hua University (NTHU)](https://www.nthu.edu.tw) in 2023 and 2021, respectively.
 
-News
+## News
+
 ------
+
 * **03 Dec. 2023**: 🏀 We won the 2nd place in basketball at the national athletic competition for graduate statistics programs in Taiwan (統研盃)! [[photo](/images/basketball.jpeg)]
 
 * **01 Dec. 2023**: 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
