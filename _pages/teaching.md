@@ -5,13 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I haven't really <em>taught</em> a class yet. Below are some TA experiences.    
+I haven't really taught a class yet. Below are some **TA** experiences.    
 
 <h2> National Tsing Hua University</h2>
-<h3>Teaching Assistant</h3>
-
----
-
+<!-- <h3>Teaching Assistant</h3> -->
+<!-- --- -->
 - STAT5561 Quality Control (graduate level) - 2022 Fall \
     - Number of students: 40~45 
     - My role: Graded homework and exams, hosted weekly office hours, demonstrated code in R
