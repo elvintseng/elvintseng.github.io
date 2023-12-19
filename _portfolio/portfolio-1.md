@@ -10,7 +10,7 @@ Data/Information security and privacy are increasingly important as ML methods b
 2. parallelizing large-scale models through a **divide-and-conquer** approach
 <br><img src='/images/FLv2.png' width="450" height="450" style="float:right">
   
-For FL algorithm efficiency, the Alternating Direction Method of Multipliers (ADMM) is a commonly used distributed/consensus optimization method for training a model altogether. Despite the data availability, FL also faces the following issues:
+For FL algorithm efficiency, the Alternating Direction Method of Multipliers (ADMM) is a commonly used distributed/consensus optimization method for collaborative model training. Despite the data availability, FL also faces the following issues:
 <ul><li> Data distribution across clients: if data is distributed non-identically across nodes, it could negatively impact model convergence</li>
 <li>Privacy in model transmission: membership inference attacks, model inversion attacks</li>
 <li>Robustness in training: data poisoning attacks, Byzantine attacks, backdoor attacks</li> </ul>
