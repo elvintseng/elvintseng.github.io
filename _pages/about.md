@@ -2,11 +2,12 @@
 permalink: /
 layout: archive
 title: "About me"
-excerpt: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+link: 'https://elvintseng.github.io/'
 ---
 
 Welcome! I am currently a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning. I have gained substantial research experience in statistical process control (SPC) and have also delved into the realm of machine learning. More recently, my focus has shifted to developing secure and privacy-preserving machine learning algorithms, a vital branch of trustworthy AI.

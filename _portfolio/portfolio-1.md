@@ -3,6 +3,7 @@ title: <h1 class="ieee-heading">Security in Machine Learning</h1>
 # <h1 class="ieee-title">Security in Machine Learning</h1>
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
+# link: 'https://elvintseng.github.io/portfolio/portfolio-1'
 ---
 
 Data/Information security and privacy are increasingly important as ML methods become more powerful. Federated Learning (FL) serves as a method for
