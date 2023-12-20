@@ -1,7 +1,8 @@
 ---
-<!-- layout: archive -->
+layout: archive
 title: "Teaching"
 permalink: /teaching/
+link: /teaching/
 author_profile: true
 ---
 

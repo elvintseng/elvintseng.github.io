@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+link: /publications/
 author_profile: true
 ---
 

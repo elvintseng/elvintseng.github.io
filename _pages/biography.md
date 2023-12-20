@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /biography/
-title: "Bio"
 author_profile: true
 redirect_from:
   - /biography
+link: /biography/
 ---
 
 {% include base_path %}

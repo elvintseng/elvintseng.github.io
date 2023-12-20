@@ -2,6 +2,7 @@
 layout: archive
 title: "Research Projects"
 permalink: /portfolio/
+link: /portfolio/
 author_profile: true
 ---
 
