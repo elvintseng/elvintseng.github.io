@@ -18,6 +18,8 @@ Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) 
 
 ------
 
+* **16 Jan. 2024**: 🪖 I'll be leaving for four months to carry out the obligatory military service. Contact through Email is still available, possibly with late reply.
+
 * **03 Dec. 2023**: 🏀 We won the 2nd place in basketball at the national athletic competition for graduate statistics programs in Taiwan (統研盃)! [[photo](/images/basketball.jpeg)]
 
 * **01 Dec. 2023**: 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
