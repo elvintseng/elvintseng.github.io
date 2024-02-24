@@ -15,7 +15,7 @@ Education
 ---
 
 * M.S. in Statistics, National Tsing Hua University, Taiwan (2021 - 2023)
-    * Advisor: [Prof. Longcheen Huwang](https://stat.site.nthu.edu.tw/p/406-1327-4323,r406.php?Lang=en)
+    * Advisor: [Prof. Longcheen Huwang](https://stat.site.nthu.edu.tw/p/406-1327-4323,r409.php?Lang=en)
     * Thesis: *Change-Point Detection EWMA Control Charts for Monitoring Weibull Scale Parameter*
 * B.S. in Mathematics, National Tsing Hua University, Taiwan (2017 - 2021)
 
