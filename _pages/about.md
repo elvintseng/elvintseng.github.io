@@ -10,22 +10,23 @@ redirect_from:
 link: 'https://elvintseng.github.io/'
 ---
 
-Welcome! I am currently a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning. I have gained substantial research experience in statistical process control (SPC) and have also delved into the realm of machine learning. More recently, my focus has shifted to developing secure and privacy-preserving machine learning algorithms, a vital branch of trustworthy AI.
+Welcome! I am an incoming Ph.D. student at the University of Michigan. Currently, I am a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning. I have gained substantial research experience in statistical process control (SPC) and have also delved into the realm of machine learning. More recently, my focus has shifted to developing secure and privacy-preserving machine learning algorithms, a vital branch of trustworthy AI.
 
 Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) and B.S. in [Mathematics](https://www.math.nthu.edu.tw) from [National Tsing Hua University (NTHU)](https://www.nthu.edu.tw) in 2023 and 2021, respectively.
 
 ## News
 
 ------
+* **Apr. 2024**: 📖 Thrilled for the opportunity to begin my Ph.D. journey in Statistics at University of Michigan this Fall!
 
-* **16 Jan. 2024**: 🪖 I'll be leaving for four months to carry out the obligatory military service. Contact through Email is still available, possibly with late reply.
+* **16 Jan. 2024**: 🪖 ~~I'll be leaving for four months to carry out the obligatory military service. Contact through Email is still available, possibly with late reply.~~ I'm back!
 
 * **03 Dec. 2023**: 🏀 We won the 2nd place in basketball at the national athletic competition for graduate statistics programs in Taiwan (統研盃)! [[photo](/images/basketball.jpeg)]
 
 * **01 Dec. 2023**: 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
 (It's pretty special to receive this recognition at the place my journey took off!)
 
-* **29 Oct. 2023**: 📝 The paper "Federated Learning for Sparse Principal Component" got accepted by [IEEE Big Data 2023](https://bigdataieee.org/BigData2023/)!
+* **29 Oct. 2023**: 📝 The paper "Federated Learning for Sparse Principal Component" got accepted by [IEEE Big Data 2023](https://ieeexplore.ieee.org/abstract/document/10386231)!
 
 * **15 Aug. 2023**: 💼 Joined the Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
 
