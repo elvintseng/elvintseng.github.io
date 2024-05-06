@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistant"
 permalink: /teaching/
 link: /teaching/
 author_profile: true
 ---
 
-I haven't really taught a class yet. Below are some **TA** experiences.    
+<!-- I haven't really taught a class yet. Below are some **TA** experiences.     -->
 
 <h2> National Tsing Hua University</h2>
 <!-- <h3>Teaching Assistant</h3> -->
