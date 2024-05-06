@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Assistant"
+title: "Teaching"
 permalink: /teaching/
 link: /teaching/
 author_profile: true
@@ -8,7 +8,7 @@ author_profile: true
 
 <!-- I haven't really taught a class yet. Below are some **TA** experiences.     -->
 
-<h2> National Tsing Hua University</h2>
+<h2> TA at National Tsing Hua University</h2>
 <!-- <h3>Teaching Assistant</h3> -->
 <!-- --- -->
 - STAT5561 Quality Control (graduate level) - 2022 Fall \
