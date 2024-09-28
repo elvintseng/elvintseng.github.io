@@ -13,7 +13,7 @@ Education
 ======
 
 ---
-* Ph.D. in Statistics, University of Michigan, U.S.A. (Incoming)
+* Ph.D. in Statistics, University of Michigan, U.S.A. (2024 - present)
 * M.S. in Statistics, National Tsing Hua University, Taiwan (2021 - 2023)
     * Advisor: [Prof. Longcheen Huwang](https://stat.site.nthu.edu.tw/p/406-1327-4323,r409.php?Lang=en)
     * Thesis: *Change-Point Detection EWMA Control Charts for Monitoring Weibull Scale Parameter*

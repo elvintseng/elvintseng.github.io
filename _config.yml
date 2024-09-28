@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Elvin Y. Tseng"
   avatar           : "photo_of_me.jpeg"
-  bio              : "Research Assistant at Academia Sinica"
-  location         : "Taipei, Taiwan"
+  bio              : "1st year PhD at UMich STATS"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2hVqqW4AAAAJ&hl"
-  email            : "ywtseng@gapp.nthu.edu.tw"
+  email            : "ywtseng@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

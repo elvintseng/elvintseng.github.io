@@ -10,9 +10,11 @@ redirect_from:
 link: 'https://elvintseng.github.io/'
 ---
 
-Welcome! I am an incoming Ph.D. student at the University of Michigan. Currently, I am a research assistant at [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), supervised by [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning. I have gained substantial research experience in statistical process control (SPC) and have also delved into the realm of machine learning. More recently, my focus has shifted to developing secure and privacy-preserving machine learning algorithms, a vital branch of trustworthy AI.
+Welcome! I am a first year Ph.D. student at the University of Michigan. Before this, I worked as a research assistant at the [Research Center for Information Technology Innovation, Academia Sinica](https://www.citi.sinica.edu.tw/en/), under the supervision of [Prof. Yuh-Jye Lee](https://www.citi.sinica.edu.tw/pages/yuh-jye/contact_en.html). My research interests broadly encompass statistical methodologies, information theory, and machine learning with a recent focus on secure, privacy-preserving algorithms in machine learning.
+<!-- I have gained substantial research experience in statistical process control (SPC) and have also delved into the realm of machine learning. -->
 
-Previously, I completed my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) and B.S. in [Mathematics](https://www.math.nthu.edu.tw) from [National Tsing Hua University (NTHU)](https://www.nthu.edu.tw) in 2023 and 2021, respectively.
+
+I received my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) in 2023 and B.S. in [Mathematics](https://www.math.nthu.edu.tw) in 2021, both from [National Tsing Hua University (NTHU)](https://www.nthu.edu.tw).
 
 ## News
 
