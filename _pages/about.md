@@ -19,26 +19,26 @@ I received my M.S. in [Statistics](https://stat.site.nthu.edu.tw/) in 2023 and B
 ## News
 
 ------
-* **Apr. 2024**: 📖 Thrilled for the opportunity to begin my Ph.D. journey in Statistics at University of Michigan this Fall!
+* 📖 Thrilled for the opportunity to begin my Ph.D. journey in Statistics at University of Michigan this Fall!
 
-* **16 Jan. 2024**: 🪖 ~~I'll be leaving for four months to carry out the obligatory military service. Contact through Email is still available, possibly with late reply.~~ I'm back!
+* 🪖 ~~I'll be leaving for four months to carry out the obligatory military service. Contact through Email is still available, possibly with late reply.~~ I'm back!
 
-* **03 Dec. 2023**: 🏀 We won the 2nd place in basketball at the national athletic competition for graduate statistics programs in Taiwan (統研盃)! [[photo](/images/basketball.jpeg)]
+* 🏀 We won the 2nd place in basketball at the national athletic competition for graduate statistics programs in Taiwan (統研盃)! [[photo](/images/basketball.jpeg)]
 
-* **01 Dec. 2023**: 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
+* 🏆 I received an Honorable Mention in the Chinese Statistical Association Thesis Award, awarded at NTHU ([35th Anniversary Conference](https://sites.google.com/gapp.nthu.edu.tw/csa2023/%E9%A6%96%E9%A0%81?authuser=0)). \
 (It's pretty special to receive this recognition at the place my journey took off!)
 
-* **29 Oct. 2023**: 📝 The paper "Federated Learning for Sparse Principal Component" got accepted by [IEEE Big Data 2023](https://ieeexplore.ieee.org/abstract/document/10386231)!
+* 📝 The paper "Federated Learning for Sparse Principal Component" got accepted by [IEEE Big Data 2023](https://ieeexplore.ieee.org/abstract/document/10386231)!
 
-* **15 Aug. 2023**: 💼 Joined the Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
+* 💼 Joined the Research Center for Information Technology Innovation, Academia Sinica. Good to be back.
 
-* **31 July 2023**: 🎓 Graduated from NTHU. Six years, a journey both lengthy and swift.
+* 🎓 Graduated from NTHU. Six years, a journey both lengthy and swift.
 
-* **15 July 2023**: 🗣️ Presented at Data for Social Good (D4SG) [Project Symposium](https://d4sg.org/events/d4sg-fellowship-2023-unveiling-party/).
+* 🗣️ Presented at Data for Social Good (D4SG) [Project Symposium](https://d4sg.org/events/d4sg-fellowship-2023-unveiling-party/).
 
-* **29 June 2023**: 🗣️ Presented at [The 32nd South Taiwan Statistics Conference](http://stsc32.com:8000/index).
+* 🗣️ Presented at [The 32nd South Taiwan Statistics Conference](http://stsc32.com:8000/index).
 
-* **26 June 2023**: 🎓 Passed the Master's Thesis Defense!
+* 🎓 Passed the Master's Thesis Defense!
 
 <!-- * **Date**: 🎉 Announcement -->
 
