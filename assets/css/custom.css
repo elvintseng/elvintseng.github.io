@@ -1,0 +1,19 @@
+.ieee-title {
+    font-variant-caps: all-small-caps;
+}
+
+.ieee-title::first-letter {
+    font-size: 1.2em;  /* Adjust the size as needed */
+}
+
+  
+.ieee-heading {
+    font-variant: small-caps;
+}
+  
+  /* You can't directly target specific words with CSS, so JavaScript would be needed to apply the 'significant-word' class where you want it. */
+.significant-word::first-letter {
+    font-size: 1.2em; /* Makes the first letter larger */
+}
+  
+  
